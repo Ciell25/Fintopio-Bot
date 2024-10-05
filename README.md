@@ -2,7 +2,7 @@
 
 ## HOW TO REGISTER 
 
- 1. Visit [👉 Register for Fintopio](https://fintop.io/VUxUN5CD 
+ 1. Visit [👉 Register for Fintopio](https://fintop.io/VUxUN5CD )
  2. Start the bot
  3. Create a Wallet & Backup
  
