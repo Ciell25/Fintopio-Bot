@@ -89,7 +89,5 @@ python main.py
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
-## Contact
-If you have any questions or suggestions, please feel free to contact us at [ https://t.me/DeeplChainSup ].
 
  
