@@ -1,9 +1,8 @@
 > [<img src="https://img.shields.io/badge/Telegram-%40Me-orange">](https://t.me/Van_Qish)
 
 ## HOW TO REGISTER 
-Fintopio is a global fintech and cryptocurrency company that has created a cryptocurrency wallet of the same name on messaging app Telegram. Steve Milton Co-Founder and CEO Fintopio is Ex-VP @binance and Ex-CMO  @bnbchain.
 
- 1. Visit [Telegram Fintopio](https://fintop.io/VUxUN5CD 
+ 1. Visit [👉 Register for Fintopio](https://fintop.io/VUxUN5CD 
  2. Start the bot
  3. Create a Wallet & Backup
  
