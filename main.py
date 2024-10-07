@@ -2,7 +2,7 @@ import sys
 import asyncio
 
 from src.core import Fintopio
-from src.Ciell import log, mrh, _clear as ve, _banner as ge
+from src.ciell import log, mrh, _clear as ve, _banner as ge
 
 if __name__ == "__main__":
     ve(), ge()
