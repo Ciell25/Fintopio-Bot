@@ -2,6 +2,11 @@
 *.json
 *.py
 !bot.py
+!__init__.py
+!agent.py
+!core.py
+!headers.py
+!deeplchain.py
 *.html
 *.txt
 !data.txt
@@ -14,6 +19,6 @@ __pycache__
 flows*
 *-*
 disin
-!config.json
+config.json
 !proxies.txt
 !requirements.txt
