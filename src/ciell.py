@@ -52,16 +52,10 @@ def log(message, **kwargs):
 def log_line():
     print(pth + "~" * 60)
 
-def load_fake_file(filepath):
-    with open(filepath, 'r') as file:
-        fake_ips = json.load(file)
-    return fake_ips
-
-def awak():
-    _clear()
-    _banner()
-    log_line()
-
+def log_error(message):
+    with open('last.log', 'a') as log_file:
+        log_file.write(f"{datetime.now().strftime('%Y-%m-%d %H:%M:%S')} - ERROR - {message}\n")
+        
 async def countdown_timer(seconds, message=None):
     while seconds:
         m, s = divmod(seconds, 60)
